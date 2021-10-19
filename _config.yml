@@ -35,41 +35,29 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Free-to-use
+    description                           : Avocado Habit is a free-to-use and easy-to-understand habit tracking app that helps you keep on top of your existing habits and build new routines and life-changing habits in a fun and gamified way.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Fun
+    description                           : Leverage useful insights and learn how to best build and cultivate positive habits for a better life. Grow your avocado plant by completing habits and routines.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Habit tracking, gamified
+    description                           : Avocado Habit brings an element of fun and gamification to the process of building and cultivating your habits and routines. Grow your avocado plant by completing your habits and watch it thrive!
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Simple and clean
+    description                           : We developed Avocado Habit with all users in mind, making the interface easy to navigate and insights easy to understand so everyone can benefit from the app
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Notifications
+    description                           : Set custom notifications and reminders and never miss a habit. You can choose the time and day to get notified in order to maximise efficiency. 
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Powerful insights
+    description                           : Keep track of your existing habits and learn from the powerful insights. Leverage these stats to improve your habit performance.
     fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
